@@ -1,13 +1,15 @@
-Hi, I am Salvatore Borlenghi and I am a software developer.
+## 👋 Hi, I'm Salvatore Borlenghi
 
-In addition to my professional role above I possess knowledge in administration, finance and marketing, knowledge acquired through my studies in High School; this kind of knowledge allows me to best implement e-commerce applications or enterprise software.
-You will find my CV and more info about me on linkedin profile <a href="https://www.linkedin.com/in/salvatore-borlenghi">here</a>
+I’m a **Software Developer** focused on designing and building scalable, secure, and high-performance applications.
 
-I love coding and development, I can spend hours and hours on it without ever getting bored, I really enjoy it.
+My background also includes solid knowledge of **business administration, finance, and marketing**, which allows me to approach software development with a strong product and business-oriented mindset. This is particularly valuable when working on **e-commerce platforms** and **enterprise-level solutions**.
 
-I'm interested in:
-- 🧳Full-Stack develpoing.
-- :shipit: Cybersecurity.
-- 🎮 Gaming developing.
+I’m deeply passionate about software development, and I continuously invest time in improving my skills and staying up to date with modern technologies.
 
-![Sborlenghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sborlenghi&show%20icons=true)
+### 💡 Areas of Interest
+- Full-Stack Development  
+- Cybersecurity  
+- Game Development  
+
+### 🌐 Profiles
+- LinkedIn: https://www.linkedin.com/in/salvatore-borlenghi
