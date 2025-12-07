@@ -9,3 +9,5 @@ I'm interested in:
 - 🧳Full-Stack develpoing.
 - :shipit: Cybersecurity.
 - 🎮 Gaming developing.
+
+![Sborlenghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sborlenghi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
