@@ -10,4 +10,4 @@ I'm interested in:
 - :shipit: Cybersecurity.
 - 🎮 Gaming developing.
 
-![Sborlenghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sborlenghi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Sborlenghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sborlenghi&show%20icons=true)
